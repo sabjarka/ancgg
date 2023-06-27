@@ -7,7 +7,6 @@
     "cypress:test": "cypress open"
   },
   "keywords": ["cypress","typescript"],
-  "author": "Vikash Chauhan",
   "license": "ISC",
   "devDependencies": {
     "cypress": "^12.13.0",

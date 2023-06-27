@@ -7,6 +7,7 @@ describe('CSGO Roll', () => {
                 password: 'things',
             }
         });
+        cy.wait(1000)
     })
 
     it('Check if +1 button is working', () => {
