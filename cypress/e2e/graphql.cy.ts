@@ -1,4 +1,4 @@
-describe('Mocking Response data with Cypress GraphQL Apollo', () => {
+describe('Graphql mocking tests', () => {
   it('Mock graphql DiceBets test', () => {
     Cypress.on('uncaught:exception', () => {
       return false;

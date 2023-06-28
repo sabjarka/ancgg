@@ -2,12 +2,11 @@
 Cypress automation framework skeleton with Typescript.
 
 ```
-CYPRESS-SAMPLE
+ANCGG
 ├───cypress
 │   ├───downloads
 │   ├───fixtures
 │   ├───e2e
-│   ├───pages
 │   ├───plugins
 │   ├───screenshots
 │   ├───support
