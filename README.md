@@ -20,7 +20,7 @@ ANCGG
 4. Install [Git](https://git-scm.com/download/) on your system. Ignore this if already installed.
 6. Open project folder with VSCode.
 7.  Run  `npm install` command to restore all packages.
-8.  Run `npm run cypress:test` command to run test.
+8.  Run `npx cypress run` command to run test.
 
 
 ## New Setup:
