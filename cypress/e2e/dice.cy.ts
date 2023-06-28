@@ -42,7 +42,7 @@ describe('Dice tests', () => {
         cy.dataCy('bet-amount-input-fields').should('have.value', '2.4')
     });
 
-    it.only('Roll over/under test', () => {
+    it('Roll over/under test', () => {
 
         cy.get('[data-test="choice-label"]').then(($element) => {
             const innerText = $element.text();
